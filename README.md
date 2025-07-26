@@ -1,6 +1,6 @@
-# 🚀 Striver's A2Z DSA Sheet – Explained & Solved in Java
+# Striver's A2Z DSA Sheet – Explained & Solved in Java
 
-![Progress](https://img.shields.io/badge/Progress-0%25-lightgrey)
+![Progress](https://img.shields.io/badge/Progress-10%25-lightgrey)
 ![Language](https://img.shields.io/badge/Language-Java-blue)
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-ff69b4)
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 📌 About This Repository
+##  About This Repository
 
 This repository is my structured and in-depth journey through the [Striver’s A2Z DSA Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/), tailored for **Java** learners. Every topic is broken down into:
 - Core concepts
@@ -17,7 +17,7 @@ This repository is my structured and in-depth journey through the [Striver’s A
 
 ---
 
-## 🧠 What You’ll Find
+##  What You’ll Find
 
 - ✅ **Topic-wise folders** (e.g., Arrays, Strings, Linked Lists, Trees, etc.)
 - 📘 **Readable Java code with explanations**
