@@ -4,7 +4,7 @@
 ![Language](https://img.shields.io/badge/Language-Java-blue)
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-ff69b4)
 
-> **Your one-stop Java-based guide to mastering DSA for interviews — with topic-wise explanations, patterns, and well-commented code.**
+> **Your one-stop Java-based guide to mastering DSA for interviews - with topic-wise explanations, patterns, and well-commented code.**
 
 ---
 
