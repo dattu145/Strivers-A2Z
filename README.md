@@ -1,4 +1,4 @@
-# Striver's A2Z DSA Sheet – Explained & Solved in Java
+# Striver's A2Z DSA Sheet - Explained & Solved in Java
 
 ![Progress](https://img.shields.io/badge/Progress-10%25-lightgrey)
 ![Language](https://img.shields.io/badge/Language-Java-blue)
